@@ -1,7 +1,7 @@
 {
-  "spider": "./1110.jar",
+  "spider": "./11131823.jar",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
-  "logo": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/dJkT/1080X1080/logo.jpg/webp",
+  "logo": "",
   "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
   "sites": [
     {
@@ -57,6 +57,15 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+    {
+      "key": "下饭",
+      "name": "下饭 • APP",
+      "type": 3,
+      "api": "csp_JuXiaFan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "快映fox",
@@ -678,16 +687,16 @@
       "genre": "shortdrama"
     },
     {
+      "key": "看剧",
+      "name": "看剧 • 影视",
+      "type": 3,
+      "api": "csp_KanJuAI"
+    },
+    {
       "key": "懂片",
       "name": "懂片 • 影视",
       "type": 3,
       "api": "csp_DongPian"
-    },
-    {
-      "key": "杜北",
-      "name": "杜北 • 影视",
-      "type": 3,
-      "api": "csp_Dubk"
     },
     {
       "key": "星辰影视",
